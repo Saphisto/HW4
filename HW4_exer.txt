@@ -1,2 +1,3 @@
 # file name is changed to HW4_exer
-## lets see if its work
+## doing changes to commit
+### lets see if it works
